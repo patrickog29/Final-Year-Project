@@ -1,0 +1,31 @@
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      
+      #map{
+      height:400px;
+      width:50%;
+      margin:auto;
+      margin-bottom:2em;}
+     
+      .forumParagraph {
+            font-weight: 600;
+            line-height:2em;
+        }
+        .picUpload {
+            margin:auto;
+            padding:1em;
+        }
+        .card bg-light {
+            padding:1.5em;
+        }
+    
+ .card bg-light {
+     
+}

@@ -1,0 +1,36 @@
+.main {
+    width: 50%;
+    margin: 50px auto;
+}
+
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.bold-signOut {
+    font-weight: 700;
+    font-size:1.1em;
+}
+#myInput {
+    width:60%; 
+    margin:auto;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+    
+    .ButtonUpdate {
+        text-align: center;
+        margin:auto;
+    }

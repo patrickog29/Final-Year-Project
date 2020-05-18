@@ -1,0 +1,33 @@
+body{
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding:0;
+  margin:0;
+}
+
+/* Global */
+.container{
+  width:80%;
+  margin:auto;
+  overflow:hidden;
+
+}
+
+footer {
+        margin-top: 0px;
+    }
+/* Showcase */
+#showcase {
+    min-height: 400px;
+    background: url('../img/banner.jpg') no-repeat 0 -400px;
+                                 /*Image LICENSE
+    -- <a href="https://pixabay.com/users/KlausHausmann-1332067/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1477940">Klaus Hausmann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1477940">Pixabay</a> */
+}
+
+form {
+    margin:40px;
+    padding:1em;
+}
+
+
+
+

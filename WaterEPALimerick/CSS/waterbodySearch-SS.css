@@ -1,0 +1,25 @@
+        
+.forumWording {
+            color:#0d0d0d;
+            line-height:3em;
+            font-weight: 600;
+        }
+        .forumParagraph {
+            font-weight: 600;
+            line-height:2em;
+        }
+        
+        #map{
+      height:400px;
+      width:100%;
+    }
+    
+    .description {
+        text-align: left;
+    }
+    
+    table, tr, td {margin:auto;
+                   text-align: center;
+    }
+    
+
